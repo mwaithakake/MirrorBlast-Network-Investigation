@@ -74,7 +74,7 @@ The installer was subsequently exported from the HTTP traffic for further examin
 
 **Evidence:**
 
-![First MSI download](screenshots/02-first-msi-download.png)
+![First MSI download](https://github.com/user-attachments/assets/55a61fdf-2e5c-4dc2-adad-5aae5bcb57d4)
 
 ### 5.2 Victim information and staging server
 
@@ -100,7 +100,7 @@ This suggests that the endpoint was used as a staging or coordination server, re
 
 **Evidence:**
 
-![Victim information sent to staging server](screenshots/03-victim-information.png)
+![Victim information](https://github.com/user-attachments/assets/2bd2b7f2-fa35-4702-96af-bfd8a184a299)
 
 ### 5.3 Second-stage payload: 10opd3r_load.msi
 
@@ -120,7 +120,7 @@ This established a multi-stage payload delivery sequence involving two separate 
 
 **Evidence:**
 
-![Second MSI download](screenshots/04-second-msi-download.png)
+![Second MSI download](https://github.com/user-attachments/assets/d7fba689-0861-485e-8f1a-452824a76fd8)
 
 ## 6. MSI Static Analysis
 
@@ -154,7 +154,7 @@ The static analysis identified the files and execution instructions packaged in 
 
 **Evidence — MSI contents and custom action:**
 
-![First MSI static analysis](screenshots/05-first-msi-analysis.png)
+![First MSI analysis](https://github.com/user-attachments/assets/4d398ae0-086e-4644-a903-6832097b4746)
 
 **Evidence — Installation directory:**
 
