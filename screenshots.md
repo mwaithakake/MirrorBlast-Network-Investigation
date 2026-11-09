@@ -1,0 +1,10 @@
+<img width="1492" height="596" alt="01-phishing-redirect" src="https://github.com/user-attachments/assets/e41c8015-13fa-426d-a5aa-b377e9ae27d2" />
+<img width="597" height="369" alt="02-first-msi-download" src="https://github.com/user-attachments/assets/55a61fdf-2e5c-4dc2-adad-5aae5bcb57d4" />
+<img width="1013" height="360" alt="03-victim-information" src="https://github.com/user-attachments/assets/2bd2b7f2-fa35-4702-96af-bfd8a184a299" />
+<img width="488" height="310" alt="04-second-msi-download" src="https://github.com/user-attachments/assets/d7fba689-0861-485e-8f1a-452824a76fd8" />
+<img width="1078" height="332" alt="05-first-msi-analysis" src="https://github.com/user-attachments/assets/4d398ae0-086e-4644-a903-6832097b4746" />
+<img width="1411" height="327" alt="06-second-msi-analysis" src="https://github.com/user-attachments/assets/6b049787-4df0-4653-bc7a-20374ba65212" />
+<img width="1029" height="300" alt="07-c2-registration" src="https://github.com/user-attachments/assets/39fae247-6ebf-4c34-a14d-8a269026ac16" />
+<img width="1812" height="636" alt="08-c2-beaconing" src="https://github.com/user-attachments/assets/0d9842e7-4974-4a12-9127-f1734f1c4716" />
+<img width="762" height="217" alt="09-first-msi-installation-directory" src="https://github.com/user-attachments/assets/f8015ff7-1901-41f7-bac1-62e774054b23" />
+<img width="727" height="234" alt="10-second-msi-installation-directory" src="https://github.com/user-attachments/assets/058530e1-d1d8-4fed-b364-a3698e2918dd" />
