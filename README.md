@@ -191,7 +191,7 @@ This suggests the installer was masquerading as legitimate Google Chrome softwar
 
 **Evidence — Installation directory:**
 
-<img width="762" height="217" alt="09-first-msi-installation-directory" src="https://github.com/user-attachments/assets/f8015ff7-1901-41f7-bac1-62e774054b23" />
+<img width="727" height="234" alt="10-second-msi-installation-directory" src="https://github.com/user-attachments/assets/058530e1-d1d8-4fed-b364-a3698e2918dd" />
 
 ## 7. Command-and-Control Investigation
 
