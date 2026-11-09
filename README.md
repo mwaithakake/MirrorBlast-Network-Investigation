@@ -158,7 +158,7 @@ The static analysis identified the files and execution instructions packaged in 
 
 **Evidence — Installation directory:**
 
-![First MSI installation directory](screenshots/09-first-msi-installation-directory.png)
+<img width="762" height="217" alt="09-first-msi-installation-directory" src="https://github.com/user-attachments/assets/f8015ff7-1901-41f7-bac1-62e774054b23" />
 
 ### 6.2 Analysis of 10opd3r_load.msi
 
@@ -187,7 +187,7 @@ This suggests the installer was masquerading as legitimate Google Chrome softwar
 
 **Evidence — MSI contents and custom action:**
 
-![Second MSI static analysis](screenshots/06-second-msi-analysis.png)
+![Second MSI analysis](https://github.com/user-attachments/assets/6b049787-4df0-4653-bc7a-20374ba65212)
 
 **Evidence — Installation directory:**
 
@@ -235,7 +235,7 @@ This activity is consistent with initial C2 registration and host profiling.
 
 **Evidence:**
 
-![C2 registration request and response](screenshots/07-c2-registration.png)
+![C2 registration](https://github.com/user-attachments/assets/39fae247-6ebf-4c34-a14d-8a269026ac16)
 
 ### 7.2 Repeated C2 communication and beaconing
 
@@ -252,7 +252,7 @@ The exact purpose of the `/m` and `/p` endpoints could not be established from t
 
 **Evidence:**
 
-![Repeated C2 communication](screenshots/08-c2-beaconing.png)
+![C2 beaconing](https://github.com/user-attachments/assets/0d9842e7-4974-4a12-9127-f1734f1c4716)
 
 ## 8. Infection Timeline
 
