@@ -50,7 +50,7 @@ This identified a suspicious redirection in the initial infection chain.
 
 **Evidence:**
 
-![Initial phishing redirection](screenshots/01-phishing-redirect.png)
+<img width="1492" height="596" alt="01-phishing-redirect" src="https://github.com/user-attachments/assets/e41c8015-13fa-426d-a5aa-b377e9ae27d2" />
 
 ## 5. Malware Payload Delivery
 
